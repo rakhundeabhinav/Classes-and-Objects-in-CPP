@@ -20,7 +20,7 @@ public:
     }
 
     void output() {
-        cout <<"Volume:<< volume << endl;
+        cout <<"Volume:"<< volume << endl;
     }
 };
 
